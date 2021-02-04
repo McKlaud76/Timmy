@@ -2,6 +2,8 @@
 
 ### Timex Computer 2048 clone with 80KB RAM on board.
 
+![Timmy](/Docs/PCB.png)
+
 The clone includes:
 
 * Z80A (3.5MHz) CPU
