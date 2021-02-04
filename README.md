@@ -10,11 +10,12 @@ The clone includes:
 * Timexe SCLD
 * 16KB lower RAM
 * 2 x 32KB upper RAM (switchable)
-* 2 x 16KB ROM (swithcable)
-* reset button
+* 2 x 16KB ROM (switchable)
+* AY-3-8910 sound chip on board
+* RESET button
 * improved Kempston joystick interface
 * compatible with TC2048 keyboard
-* PCB in dimentions and size of the ogirinal Timex Computer 2048
+* PCB in dimensions and size of the ogirinal Timex Computer 2048
 
 *This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).*
 
