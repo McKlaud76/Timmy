@@ -7,7 +7,7 @@
 The clone includes:
 
 * Z80A (3.5MHz) CPU
-* Timexe SCLD
+* Timex SCLD
 * 16KB lower RAM
 * 2 x 32KB upper RAM (switiching controlled via #FF port)
 * 2 x 16KB ROM (selectable)
