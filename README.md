@@ -18,6 +18,11 @@ The clone includes:
 * RESET button
 * PCB in dimensions and size of the ogirinal Timex Computer 2048
 
+Basic tests:
+
+[![Testing Timmy](https://i9.ytimg.com/vi/dC0ZgcBu8rQ/mq3.jpg)](https://youtu.be/dC0ZgcBu8rQ "Testing Timmy")
+
+
 *This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).*
 
 *No Warranty of the Project. The Issuer makes no express or implied warranty of any kind whatsoever with respect to the Project.*
