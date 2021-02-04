@@ -1,6 +1,6 @@
 # Timmy
 
-###Timex Computer 2048 clone with 80KB RAM on board.
+### Timex Computer 2048 clone with 80KB RAM on board.
 
 This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
 
