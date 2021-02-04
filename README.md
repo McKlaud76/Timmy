@@ -1,8 +1,8 @@
 # Timmy
 
-### Timex Computer 2048 clone with 80KB RAM on board.
-
 ![Timmy](/Docs/TC2048_PCB_012.png)
+
+### Timex Computer 2048 clone with 80KB RAM on board.
 
 The clone includes:
 
