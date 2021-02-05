@@ -16,7 +16,7 @@ The clone includes:
 * RGB and composite video output
 * compatible with TC2048 keyboard
 * RESET button
-* PCB in dimensions and size of the ogirinal Timex Computer 2048
+* PCB in dimensions and size of the Timex Computer 2048 board
 
 
 Basic tests:
