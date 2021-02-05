@@ -20,7 +20,7 @@ The clone includes:
 
 
 Basic tests:
-[![Testing Timmy](https://i9.ytimg.com/vi/dC0ZgcBu8rQ/mq3.jpg?sqp=CLif7oAG&rs=AOn4CLAP9gXIBlCHmznOnPPO0uf7smWa-Q)](https://youtu.be/dC0ZgcBu8rQ "Testing Timmy")
+[![Testing Timmy](/Docs/Timmy_RGB_01.jpg)](https://youtu.be/dC0ZgcBu8rQ "Testing Timmy")
 
 --------------------------------------------------------------------------------
 
