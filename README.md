@@ -9,18 +9,20 @@ The clone includes:
 * Z80A (3.5MHz) CPU
 * Timex SCLD
 * 16KB lower RAM
-* 2 x 32KB upper RAM (switiching controlled via #FF port)
+* 2 x 32KB upper RAM (bank switching controlled via #FF port)
 * 2 x 16KB ROM (selectable)
-* AY-3-8910 sound chip contolled via Timex ports
+* AY-3-8910 sound chip controlled via Timex ports
 * improved Kempston joystick interface
 * RGB and composite video output
 * compatible with TC2048 keyboard
 * RESET button
 * PCB in dimensions and size of the ogirinal Timex Computer 2048
 
-Basic tests:
 
+Basic tests:
 [![Testing Timmy](https://i9.ytimg.com/vi/dC0ZgcBu8rQ/mq3.jpg?sqp=CLif7oAG&rs=AOn4CLAP9gXIBlCHmznOnPPO0uf7smWa-Q)](https://youtu.be/dC0ZgcBu8rQ "Testing Timmy")
+
+--------------------------------------------------------------------------------
 
 
 *This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).*
