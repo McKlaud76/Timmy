@@ -4,7 +4,7 @@
 
 ### Timex Computer 2048 clone with 80KB RAM on board.
 
-The clone includes:
+The clone (v.0.2) includes:
 
 * Z80A (3.5MHz) CPU
 * Timex SCLD
@@ -17,6 +17,11 @@ The clone includes:
 * compatible with TC2048 keyboard
 * RESET button
 * PCB in dimensions and size of the Timex Computer 2048 board
+
+Changes to previous revision:
+* correctred edge connector layout
+* added BT audio module for wireless tape loading
+* added PSG I/O port A connector
 
 
 Basic tests:
