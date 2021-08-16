@@ -1,7 +1,7 @@
 Timmy - Timex Computer 2048 clone
 --------------------------------------------------------------------------------
 
-(c)2020 McKlaud
+(c) 2020 KWF
 
 Gerbers: rev. 0.12 retired and it should NOT be used for any PCB making.
 
