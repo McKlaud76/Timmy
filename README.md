@@ -1,6 +1,6 @@
 # Timmy
 
-![Timmy](/Docs/TC2048_PCB_012.png)
+![Timmy](/Docs/TC2048_PCB_02a.png)
 
 ### Timex Computer 2048 clone with 80KB RAM on board.
 
@@ -23,7 +23,6 @@ Basic tests:
 [![Testing Timmy](/Docs/Timmy_RGB_01.jpg)](https://youtu.be/dC0ZgcBu8rQ "Testing Timmy")
 
 --------------------------------------------------------------------------------
-
 
 *This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).*
 
