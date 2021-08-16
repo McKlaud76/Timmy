@@ -3,9 +3,9 @@ Timmy - Timex Computer 2048 clone
 
 (c)2020 McKlaud
 
-Gerbers: rev 0.12
+Gerbers: rev 0.12 retired
 
-Date: 05/02/2021
+Date: 16/08/2021
 
 --------------------------------------------------------------------------------
 
