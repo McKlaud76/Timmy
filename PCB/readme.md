@@ -5,7 +5,7 @@ Timmy - Timex Computer 2048 clone
 
 Gerbers: rev. 0.12 retired and it should NOT be used for any PCB making.
 
-Timmy PCB rev. 0.2 is not public and Gerber files are NOT be available. 
+Timmy PCB rev. 0.2 is not public and Gerber files are NOT available. 
 
 Date: 16/08/2021
 
