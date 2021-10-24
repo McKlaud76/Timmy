@@ -3,11 +3,11 @@ Timmy - Timex Computer 2048 clone
 
 (c) 2021 KWF
 
-Gerbers: rev. 0.12 retired and it should NOT be used for any PCB making.
+Gerbers: rev. 0.12 retired and it should NOT be used for any PCB manufactiring.
 
-Timmy PCB rev. 0.2 is not public and Gerber files are NOT available. 
+Newer Timmy PCB rev. 0.2 or higher are not public. Gerber files are NOT available. 
 
-Date: 16/08/2021
+Date: 24/10/2021
 
 --------------------------------------------------------------------------------
 
