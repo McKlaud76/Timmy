@@ -25,13 +25,13 @@ Changes to previous revision:
 * added BT audio,
 * added PSG I/O port A connector.
 
-Comparision with TC2048 Board:
+Comparision Timmy v0.2 with TC2048 Board:
 ![TC2048vsTimmy](/Docs/Timmyv0.2.jpg)
 
-Testing setup:
+Testing setup (v1.1):
 ![Testbench](/Docs/SCLDv3_02.jpeg)
 
-Basic tests:
+Basic colour test:
 [![Testing Timmy](/Docs/Timmy_RGB_01.jpg)](https://youtu.be/dC0ZgcBu8rQ "Testing Timmy")
 
 --------------------------------------------------------------------------------
