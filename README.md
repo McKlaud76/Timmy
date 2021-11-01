@@ -25,7 +25,9 @@ Changes to previous revision:
 * added BT audio module,
 * added PSG I/O port A connector.
 
-For detailed information please visit: https://www.speccy.pl/forum/index.php?topic=6033.0
+For detailed information please visit: (https://www.speccy.pl/forum/index.php?topic=6033.0 "Timmy")
+
+Some of tests to watch: (https://www.youtube.com/watch?v=dC0ZgcBu8rQ&list=PLeEjSz45t7SoUN8s2FDAEhrHg98INT9Z2 "YouTube")
 
 Comparision Timmy v0.2 with TC2048 Board:
 ![TC2048vsTimmy](/Docs/Timmyv0.2.jpg)
