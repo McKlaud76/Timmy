@@ -27,7 +27,9 @@ Changes to previous revision:
 
 For detailed information please visit: [Timmy @ speccy.pl](https://www.speccy.pl/forum/index.php?topic=6033.0)
 
-Some of tests to watch my [YouTube](https://www.youtube.com/watch?v=dC0ZgcBu8rQ&list=PLeEjSz45t7SoUN8s2FDAEhrHg98INT9Z2)
+If you are interested in  hardware tests please watch my [YouTube Channel](https://www.youtube.com/watch?v=dC0ZgcBu8rQ&list=PLeEjSz45t7SoUN8s2FDAEhrHg98INT9Z2)
+
+### Photos
 
 Comparision Timmy v0.2 with TC2048 Board:
 ![TC2048vsTimmy](/Docs/Timmyv0.2.jpg)
