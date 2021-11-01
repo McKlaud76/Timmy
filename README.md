@@ -25,9 +25,9 @@ Changes to previous revision:
 * added BT audio module,
 * added PSG I/O port A connector.
 
-For detailed information please visit: [Timmy @ speccy.pl](https://www.speccy.pl/forum/index.php?topic=6033.0)
+For detailed information visit: [Timmy @ speccy.pl](https://www.speccy.pl/forum/index.php?topic=6033.0)
 
-If you are interested in  hardware tests please watch my [YouTube Channel](https://www.youtube.com/watch?v=dC0ZgcBu8rQ&list=PLeEjSz45t7SoUN8s2FDAEhrHg98INT9Z2)
+If you are interested in hardware tests watch my [YouTube Channel](https://www.youtube.com/watch?v=dC0ZgcBu8rQ&list=PLeEjSz45t7SoUN8s2FDAEhrHg98INT9Z2)
 
 ### Photos
 
