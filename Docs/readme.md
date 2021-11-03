@@ -1,4 +1,8 @@
-### Documentation ###
+## Documentation ##
+
+© 2021 KWF
+
+Date: 03/11/2021
 
 The latest bill of materials (BOM) is available at: http://timmy.fatla.eu/
 
