@@ -40,12 +40,12 @@ Testing setup (v1.1):
 Colour test output (v1.1):
 [![Testing Timmy](/Docs/Timmy_RGB_01.jpg)](https://youtu.be/dC0ZgcBu8rQ "Testing Timmy")
 
---------------------------------------------------------------------------------
+### Warranty
 
 *No Warranty of the Project. The Issuer makes no express or implied warranty of any kind whatsoever with respect to the Project.*
 
---------------------------------------------------------------------------------
+### License
 
-*This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
+*This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)) if not stated otherwise.*
 
 
