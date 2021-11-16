@@ -1,12 +1,10 @@
 # Timmy
-
+### Timex Computer 2048 clone with 80KB RAM on board.
 © 2021 KWF
 
 Date: 03/11/2021
 
 ![Timmy](/Docs/TC2048_PCB_03.png)
-
-### Timex Computer 2048 clone with 80KB RAM on board.
 
 The clone (v.0.3) includes:
 
